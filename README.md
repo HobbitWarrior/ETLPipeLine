@@ -30,3 +30,13 @@ In case of change in granularity, assuming that the ETL pipeline will run on a h
 
 5.	Think of a deployment pipeline. How would you update your ETL pipeline?
 
+
+answer: 
+In case of a deployment pipeline I would first consider testing the update in development environment, before setting it up in the production environment, In order to make sure that the update will not break the pipeline. Since there are some difficulties in testing an  ETL pipeline with possibly a 3rd party data, I would attempt to create a database that mimics it as best as possible in order to ensure consistency in the environments. Maybe it will be useful to consider automated tests with each merge of the changes of the code, and possibly implement some sort of CI/CD practices of frequent daily merge of the code in order to catch as many bugs as possible in the development environment.
+
+
+I'm quite excited and thankful for the opportunity you gave me, and I'm not that proud of my results, if i had more time at hand, I would be able to perform better provide more optimal results in the task, I would be very grateful if you take it under consideration.
+thanks again, 
+the task was quite interesting and fun by the way. 😊 
+Alex. 
+
