@@ -1,7 +1,6 @@
 # ETLPipeLine
-AN ETL test assignment
-Answers to the questions in the assignment:
-
+## Answers to the questions in the assignment:
+### submitted by: Alex Zeltser, wolfazb@gmail.com 
 
 During the ETL pipeline, please focus on the following points:
 1.	Add a weekly low, high, median, average for every record.
